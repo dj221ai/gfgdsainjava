@@ -11,6 +11,7 @@ public class Factorial{
         return n*fact(n-1);
     }
     public static void main(String[] args) {
+        // iterative approach
         // int n,temp=1;
         // System.out.println("Enter number: ");
         // try (Scanner sc = new Scanner(System.in)) {
@@ -25,7 +26,7 @@ public class Factorial{
         // System.out.println("factorial of "+n+" is "+temp);
 
         long res;
-        res=fact(51);
+        res=fact(5);
         System.out.println("result is "+res);
     }
         

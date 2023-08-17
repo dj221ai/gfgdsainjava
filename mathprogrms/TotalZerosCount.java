@@ -1,3 +1,5 @@
+// optimised solution with T.c. O(log n) and Aux space O(1)
+
 import java.util.Scanner;
 
 public class TotalZerosCount {
