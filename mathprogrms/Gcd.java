@@ -1,4 +1,4 @@
-// naive approach for gcd
+// euclidean mtd 1 for gcd
 
 import java.util.Scanner;
 
